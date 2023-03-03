@@ -21,4 +21,4 @@ python3 object_detection.py
 
 # Download weights and cfg files
 
-cfg file - [link]([url](https://o365knuackr-my.sharepoint.com/:u:/g/personal/sainavaneet_office_knu_ac_kr/EY2LjxecQRFDgknn69i3wtYBsOBsmbX3P0GBhEy4HRHGNw?e=rVq4Sm))
+cfg file - [link]([https://o365knuackr-my.sharepoint.com/:u:/g/personal/sainavaneet_office_knu_ac_kr/EY2LjxecQRFDgknn69i3wtYBsOBsmbX3P0GBhEy4HRHGNw?e=rVq4Sm])
