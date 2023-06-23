@@ -1,4 +1,4 @@
-# Code README
+#ObjectDetection
 
 This repository contains a Python script that utilizes the Olympe library and OpenCV to detect objects in a video stream and control a drone based on the detected objects.
 
